@@ -1,2 +1,2 @@
 # vue_bug
-Run a bug about vue3
+Open the doc document and follow the steps inside
